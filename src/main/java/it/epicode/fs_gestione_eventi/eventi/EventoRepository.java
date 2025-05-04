@@ -1,6 +1,6 @@
 package it.epicode.fs_gestione_eventi.eventi;
 
-import it.epicode.gestione_eventi.auth.AppUser;
+import it.epicode.fs_gestione_eventi.auth.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

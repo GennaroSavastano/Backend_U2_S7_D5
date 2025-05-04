@@ -1,7 +1,7 @@
 package it.epicode.fs_gestione_eventi.prenotazioni;
 
-import it.epicode.gestione_eventi.auth.AppUser;
-import it.epicode.gestione_eventi.eventi.EventoService;
+import it.epicode.fs_gestione_eventi.auth.AppUser;
+import it.epicode.fs_gestione_eventi.eventi.EventoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.prepost.PreAuthorize;

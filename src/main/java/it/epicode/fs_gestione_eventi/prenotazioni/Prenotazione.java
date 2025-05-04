@@ -1,7 +1,7 @@
 package it.epicode.fs_gestione_eventi.prenotazioni;
 
-import it.epicode.gestione_eventi.auth.AppUser;
-import it.epicode.gestione_eventi.eventi.Evento;
+import it.epicode.fs_gestione_eventi.auth.AppUser;
+import it.epicode.fs_gestione_eventi.eventi.Evento;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;

@@ -1,8 +1,8 @@
 package it.epicode.fs_gestione_eventi.eventi;
 
-import it.epicode.gestione_eventi.auth.AppUser;
-import it.epicode.gestione_eventi.auth.AppUserService;
-import it.epicode.gestione_eventi.auth.Role;
+import it.epicode.fs_gestione_eventi.auth.AppUser;
+import it.epicode.fs_gestione_eventi.auth.AppUserService;
+import it.epicode.fs_gestione_eventi.auth.Role;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;

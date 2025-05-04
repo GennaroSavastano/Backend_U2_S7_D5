@@ -1,9 +1,9 @@
 package it.epicode.fs_gestione_eventi.prenotazioni;
 
-import it.epicode.gestione_eventi.auth.AppUser;
-import it.epicode.gestione_eventi.auth.AppUserService;
-import it.epicode.gestione_eventi.eventi.Evento;
-import it.epicode.gestione_eventi.eventi.EventoService;
+import it.epicode.fs_gestione_eventi.auth.AppUser;
+import it.epicode.fs_gestione_eventi.auth.AppUserService;
+import it.epicode.fs_gestione_eventi.eventi.Evento;
+import it.epicode.fs_gestione_eventi.eventi.EventoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
